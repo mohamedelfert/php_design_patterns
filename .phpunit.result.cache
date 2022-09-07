@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\AbstractFactoryTest::testCanCreateBenzCar":3},"times":{"Tests\\AbstractFactoryTest::testCanCreateBMWCar":0.003,"Tests\\AbstractFactoryTest::testCanCreateBenzCar":0}}

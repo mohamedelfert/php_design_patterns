@@ -1,0 +1,17 @@
+{
+  "name": "medot/design_pattern_php",
+  "description": "code examples for design patterns in php course",
+  "authors": [
+    {
+      "name": "mohamed elfert"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Creational\\": "Creational"
+    }
+  },
+  "require": {
+    "phpunit/phpunit": "8.*"
+  }
+}
