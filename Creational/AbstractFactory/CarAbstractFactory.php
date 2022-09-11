@@ -2,7 +2,7 @@
 
 namespace Creational\AbstractFactory;
 
-class CarAbstratctFactory
+class CarAbstractFactory
 {
     private $price;
     private $tax = 50000;
