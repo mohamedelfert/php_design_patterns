@@ -1,0 +1,21 @@
+{
+    "name": "medot/token-auth-lib",
+    "description": "test lib for token auth",
+    "autoload": {
+        "psr-4": {
+            "Medot\\TokenAuthLib\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohamed Elfert",
+            "email": "mohamedelfert@yahoo.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "TokenAuthLib\\": "TokenAuthLib"
+        }
+    }
+}

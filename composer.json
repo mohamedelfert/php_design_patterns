@@ -1,18 +1,30 @@
 {
-  "name": "medot/design_pattern_php",
-  "description": "code examples for design patterns in php course",
-  "authors": [
-    {
-      "name": "mohamed elfert"
-    }
-  ],
-  "autoload": {
-    "psr-4": {
-      "Creational\\": "Creational",
-      "Structural\\": "Structural"
-    }
-  },
-  "require": {
-    "phpunit/phpunit": "8.*"
-  }
+    "name": "medot/design_pattern_php",
+    "description": "code examples for design patterns in php course",
+    "authors": [
+      {
+        "name": "mohamed elfert"
+      }
+    ],
+    "require": {
+        "phpunit/phpunit": "8.5.31",
+        "medot/basic-auth-lib": "*@dev",
+        "medot/token-auth-lib": "*@dev"
+    },
+    "autoload": {
+      "psr-4": {
+        "Creational\\": "Creational",
+        "Structural\\": "Structural"
+      }
+    },
+    "repositories": [
+      {
+        "type": "path",
+        "url": "BasicAuthLib"
+      },
+      {
+        "type": "path",
+        "url": "TokenAuthLib"
+      }
+    ]
 }

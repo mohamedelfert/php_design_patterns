@@ -1,0 +1,21 @@
+{
+    "name": "medot/basic-auth-lib",
+    "description": "test lib for basic auth",
+    "autoload": {
+        "psr-4": {
+            "Medot\\BasicAuthLib\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohamed Elfert",
+            "email": "mohamedelfert@yahoo.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "BasicAuthLib\\": "BasicAuthLib"
+        }
+    }
+}

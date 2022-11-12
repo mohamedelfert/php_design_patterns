@@ -10,7 +10,6 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/phpunit/php-file-iterator" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/phpunit/php-timer" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/phpunit/php-text-template" />
-      <excludeFolder url="file://$MODULE_DIR$/vendor/phpunit/phpunit" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/phar-io/manifest" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/phar-io/version" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/doctrine/instantiator" />
@@ -30,6 +29,9 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/sebastian/diff" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/sebastian/exporter" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/medot/basic-auth-lib" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/medot/token-auth-lib" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
